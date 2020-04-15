@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SYLibHelper_Tests' do
+  pod 'SYLibHelper', :path => '../'
+  
+  
+end

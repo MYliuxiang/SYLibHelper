@@ -1,0 +1,16 @@
+PODS:
+  - SYLibHelper (0.1.0)
+
+DEPENDENCIES:
+  - SYLibHelper (from `../`)
+
+EXTERNAL SOURCES:
+  SYLibHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYLibHelper: 4c849cf18dfed5e91f697580edd1801cd7a5b7b1
+
+PODFILE CHECKSUM: 8a2bf9ee3fb8fbd483c9d720fce36748b10c21e8
+
+COCOAPODS: 1.9.1
